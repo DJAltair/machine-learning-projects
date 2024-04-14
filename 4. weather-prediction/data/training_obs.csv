@@ -1,0 +1,11 @@
+Wind;Weather;Temperature;Played
+strong;cloudy;cold;no
+strong;cloudy;warm;no
+none;sunny;warm;yes
+none;sunny;hot;no
+weak;cloudy;hot;yes
+weak;sunny;warm;yes
+none;cloudy;cold;no
+strong;sunny;cold;yes
+none;cloudy;hot;yes
+strong;cloudy;warm;yes
